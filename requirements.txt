@@ -1,0 +1,10 @@
+google-genai
+streamlit
+chromadb
+sentence-transformers
+pymupdf
+python-docx
+python-pptx
+openpyxl
+pandas
+pyngrok
